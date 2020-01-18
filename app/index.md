@@ -19,10 +19,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 [Chocolate Soup](recipe/jan/chocolate-soup.md
 
 
+
 ### Last Month's Favorites
 
-
-## Picks of the Month
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) |
 
@@ -35,3 +34,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md) |
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md
+
+
+
+
+
+
