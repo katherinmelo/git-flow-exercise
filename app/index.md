@@ -14,10 +14,24 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Asparagus with Cranberries](recipe/feb/Asparagus with Cranberries.md)
 
-### [John Lemon](writer/john-lemon.md) |
-
-[Homemade Sausages](recipe/jan/homemade-sausages.md)
-
 ### [Madame Croque](writer/madame-croque.md) | 
 
-[Chocolate Soup](recipe/jan/chocolate-soup.md)
+[Chocolate Soup](recipe/jan/chocolate-soup.md
+
+
+### Last Month's Favorites
+
+
+## Picks of the Month
+
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) |
+
+[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
+
+### [Eggs Benny](writer/eggs-benny.md) |
+
+[Asparagus with Cranberries](recipe/feb/Asparagus with Cranberries.md)
+
+### [Madame Croque](writer/madame-croque.md) |
+
+[Chocolate Soup](recipe/jan/chocolate-soup.md
