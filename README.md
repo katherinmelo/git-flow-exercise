@@ -2,9 +2,10 @@
 
 An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/). This exercise will walk your team through a full release cycle for an example application.
 
-## Background
+
 gtegfcduiw ejopfkwòygvujbgkj
 The jfeepifwerw iger jgreogkfwprint magazine _Flavor_ haswfhevbfjenhkfcw asked your frfgvrfgergreirm to build and maintain an app so they can share recipes with their hungry audience.
+
 
 The typical development cycle for the project is as follows:
 
