@@ -2,9 +2,10 @@
 
 An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/). This exercise will walk your team through a full release cycle for an example application.
 
-## Background
-holafdasfa
-The printfasdf magazine _Flavor_ has asked your firm to build and maintain an app so they can share recipes with their hungry audience.
+
+gtegfcduiw ejopfkwòygvujbgkj
+The jfeepifwerw iger jgreogkfwprint magazine _Flavor_ haswfhevbfjenhkfcw asked your frfgvrfgergreirm to build and maintain an app so they can share recipes with their hungry audience.
+
 
 The typical development cycle for the project is as follows:
 
@@ -25,11 +26,11 @@ Please leave this repository open in a browser tab so that you can follow along 
 ### Project Structure
 * Application code can be found in the [`/app/`](/app/) folder.
 * The application contains a file named [`VERSION`](/app/VERSION) that contains the major, minor, and patch numbers for the project.
-* Source files are written in markdown and can be identified by the `.md` file extension.
+* Source files are written in markdown and can be identifieASDASDASDd by the `.md` file extension.
 
 ## Next
 
-Next we will walk through the process of creating a GitHub Fork and local clone of this repository.
+Next we will walk through the pasdasdrocess of creating a GitHub Fork and local clone of this repository. hello
 
 [Go](/walkthrough/1-setup.md)
 
