@@ -4,7 +4,7 @@ An exercise for learning the [git-flow branching model](http://nvie.com/posts/a-
 
 ## Background
 gtegfcduiw ejopfkwòygvujbgkj
-The print magazine _Flavor_ has asked your firm to build and maintain an app so they can share recipes with their hungry audience.
+The jfeepifwerw iger jgreogkfwprint magazine _Flavor_ haswfhevbfjenhkfcw asked your frfgvrfgergreirm to build and maintain an app so they can share recipes with their hungry audience.
 
 The typical development cycle for the project is as follows:
 
